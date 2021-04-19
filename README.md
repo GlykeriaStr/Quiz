@@ -6,6 +6,6 @@ There won't be any testing yet as I am still trying to learn how to do tests wit
 ## To Run
 
 1. Clone this repo
-2. Go to the repo's directory `cd QUIZ`
+2. Go to the repo's directory `cd Quiz`
 3. Run `python app.py` in your terminal
 4. Answer the 3 very difficult questions!
